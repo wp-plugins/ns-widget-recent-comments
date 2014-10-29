@@ -1,6 +1,6 @@
 === NS Widget Recent Comments ===
 Contributors: Miodrag Rasic
-Tags: netscripter, recent comments, widget, avatar, free, recent comments with avatars
+Tags: netscripter, recent comments, comments, widget, avatar, free, recent comments with avatars
 Requires at least: 3.0
 Tested up to: 4
 Stable tag: trunk
@@ -48,14 +48,14 @@ Clean design makes it easy to fit in any kind of look of WordPress themes.
  - Using FTP Client
 
     Download ns-widget-recent-comments.zip
-    Extract the ns-tweet directory to your PC or Lap Top
-    Upload the ns-tweet directory to the /wp-content/plugins/ directory
+    Extract the ns-widget-recent-comments directory to your PC or Lap Top
+    Upload directory to the /wp-content/plugins/ directory
     Activate the plugin in the Plugin dashboard
 
 
 - Usage:
 
-On the Appearance dashboard choose Widgets. Find "NS Widget Recent Comments" on the left side where the widgets are. Click on it and choose the widget area you would like to place the widget. Then click on the small arrow on the right from the "NS Widget Recent Comments" title, a dropdown menu with 
+On the Appearance dashboard choose Widgets. Find "NetScripter: Recent Comments" on the left side where the widgets are. Click on it and choose the widget area you would like to place the widget. Then click on the small arrow on the right from the "NS Widget Recent Comments" title, a dropdown menu with 
 	
 options will appear. You can then fill in the informations and choose appropriate options as you like.
 
@@ -69,6 +69,11 @@ Click "save" button, and your Recent Comments are on your WordPress blog's Sideb
 
 == Frequently Asked Questions ==
 
+= Does the plugin support localization? =
+
+Yes, you can find .POT file in a folder "languages".
+
+Please send your localization files (.mo и .po) to admin@netscripter.me
 
 == Changelog ==
 
