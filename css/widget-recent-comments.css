@@ -1,0 +1,37 @@
+﻿/* ==========================================================================
+   Default style for NS Widget Recent Comments
+========================================================================== */
+#ns {
+padding:0;
+margin:0;
+}
+
+.avat {
+display:block;
+padding:5px;
+}
+
+.avat img {
+padding:0;
+margin:3px;
+float:left;
+padding-bottom:2px;
+}
+
+li.ns-comment {
+list-style-type:none!important;
+margin:0;
+-webkit-transition:all .25s linear;
+-moz-transition:all .25s linear;
+transition:all .25s linear;
+padding-left:4px;
+padding-right:2px;
+background:none;
+border-bottom:1px solid #dbdbdb;
+}
+
+.ns-comment a {
+font-size:14px;
+color:#555;
+font-weight:400;
+}
