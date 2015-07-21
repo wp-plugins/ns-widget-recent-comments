@@ -75,7 +75,15 @@ Yes, you can find .POT file in a folder "languages".
 
 Please send your localization files (.mo и .po) to admin@netscripter.me
 
-== Changelog ==
+= 1.1 =
+* This version fixes Translation bugs, that prevented translated .po file not to show in desired language.
 
-This is completely brand new version of this plugin.
+= 1.0 =
+* 1.1
+* 1.0
+
+== Upgrade Notice ==
+
+= 1.1 =
+This version fixes Translation bugs, that prevented translated .po file not to show in desired language.  Upgrade immediately.
 
