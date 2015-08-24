@@ -2,7 +2,7 @@
 Contributors: Miodrag Rasic
 Tags: netscripter, recent comments, comments, widget, avatar, free, recent comments with avatars
 Requires at least: 3.0
-Tested up to: 4.2.2
+Tested up to: 4.3.0
 Stable tag: trunk
 License: GNU General Public License
 License URI: http://www.gnu.org/licenses/
@@ -75,6 +75,9 @@ Yes, you can find .POT file in a folder "languages".
 
 Please send your localization files (.mo и .po) to admin@netscripter.me
 
+= 1.2 =
+* Changed WP_Widget that is deprecated since version 4.3.0, to __construct.
+
 = 1.1 =
 * This version fixes Translation bugs, that prevented translated .po file not to show in desired language.
 
@@ -83,6 +86,9 @@ Please send your localization files (.mo и .po) to admin@netscripter.me
 * 1.0
 
 == Upgrade Notice ==
+
+= 1.2 =
+This version makes NS Widget Recent Comments compatibile with 4.3.0 release and remove  WP_Widget is deprecated since version 4.3.0! Use __construct() Notice. Upgrade immediately.
 
 = 1.1 =
 This version fixes Translation bugs, that prevented translated .po file not to show in desired language.  Upgrade immediately.

@@ -5,7 +5,7 @@
 * Author: widget-recent-comments
 * Author URI: http://netscripter.me
 * Description: Add a recent comments widget that shows author's avatar.
-* Version: 1.1
+* Version: 1.2
 * Text Domain: widget-recent-comments
 */
 
@@ -32,7 +32,7 @@ class NS_Recent_Comments_ extends WP_Widget {
 
 	function NS_Recent_Comments_() {
 		$widget_ops = array('classname' => 'widget_ns', 'description' => __( 'Recent comments, with Avatars.' , 'widget-recent-comments') );
-		$this->WP_Widget('ns-recent-comments', __('NS Recent Comments', 'widget-recent-comments'), $widget_ops);
+		parent::__construct('ns-recent-comments', __('NS Recent Comments', 'widget-recent-comments'), $widget_ops);
 		$this->alt_option_name = 'widget_ns';
 
 		if ( is_active_widget(false, false, $this->id_base) )
