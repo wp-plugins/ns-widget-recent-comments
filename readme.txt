@@ -25,7 +25,7 @@ Clean design makes it easy to fit in any kind of look of WordPress themes.
 
 = Plugin Info =
 
-* Developed by [Miodrag Rasic] & [NetScripter](http://netscripter.me/)
+* Developed by [Miodrag Rasic] & [NetScripter](http://netscripter.info/)
 
 
 == Installation ==
@@ -73,7 +73,7 @@ Click "save" button, and your Recent Comments are on your WordPress blog's Sideb
 
 Yes, you can find .POT file in a folder "languages".
 
-Please send your localization files (.mo и .po) to admin@netscripter.me
+Please send your localization files (.mo и .po) to admin@netscripter.info
 
 = 1.2 =
 * Changed WP_Widget that is deprecated since version 4.3.0, to __construct.

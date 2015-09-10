@@ -1,9 +1,9 @@
 <?php
 /*
 * Plugin Name: NS Widget Recent Comments
-* Plugin URI: http://netscripter.me/ns-widget-recent-comments
+* Plugin URI: http://netscripter.info/ns-widget-recent-comments
 * Author: widget-recent-comments
-* Author URI: http://netscripter.me
+* Author URI: http://netscripter.info
 * Description: Add a recent comments widget that shows author's avatar.
 * Version: 1.2
 * Text Domain: widget-recent-comments
