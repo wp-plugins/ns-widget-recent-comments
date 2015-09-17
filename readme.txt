@@ -2,7 +2,7 @@
 Contributors: Miodrag Rasic
 Tags: netscripter, recent comments, comments, widget, avatar, free, recent comments with avatars
 Requires at least: 3.0
-Tested up to: 4.3.0
+Tested up to: 4.3.1
 Stable tag: trunk
 License: GNU General Public License
 License URI: http://www.gnu.org/licenses/
